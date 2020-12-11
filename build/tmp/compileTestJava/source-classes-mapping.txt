@@ -1,0 +1,4 @@
+com/example/Project23/ReportOfPurchasesTableTest.java
+ com.example.Project23.ReportOfPurchasesTableTest
+com/example/Project23/GeneratorOfReportsTests.java
+ com.example.Project23.GeneratorOfReportsTests

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.Project23.GeneratorOfReportsTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-11T18:43:51" hostname="Bogdans-MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="calculateReportOfPurchasesTableTest()" classname="com.example.Project23.GeneratorOfReportsTests" time="0.016"/>
+  <testcase name="testReadFile()" classname="com.example.Project23.GeneratorOfReportsTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

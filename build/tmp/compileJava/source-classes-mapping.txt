@@ -1,0 +1,13 @@
+com/example/Project23/src/Purchase.java
+ com.example.Project23.src.Purchase
+com/example/Project23/api/Controller.java
+ com.example.Project23.api.Controller
+com/example/Project23/src/Order.java
+ com.example.Project23.src.Order
+com/example/Project23/src/GeneratorOfReports.java
+ com.example.Project23.src.GeneratorOfReports
+ com.example.Project23.src.GeneratorOfReports$ReportOfPurchasesTable
+com/example/Project23/Project23Application.java
+ com.example.Project23.Project23Application
+com/example/Project23/src/TableOfPurchases.java
+ com.example.Project23.src.TableOfPurchases
